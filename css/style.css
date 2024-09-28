@@ -1,19 +1,58 @@
 /*Base*/
 body {
   color: #434455;
+  font-family: "Roboto", sans-serif;
+
+  background-color: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
+button {
+  font-family: inherit;
+}
+h2 {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.1;
+  text-transform: capitalize;
+  text-align: center;
+}
+h3 {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
 }
 .button {
-  color: #ffffff;
+  font-weight: 500;
+  font-family: inherit;
+  color: #fff;
   background-color: #4d5ae5;
+  text-transform: capitalize;
   cursor: pointer;
+  text-align: center;
 }
+
 .button:hover {
+  background-color: #404bbf;
+}
+.button:focus {
   background-color: #404bbf;
 }
 
 /* Header */
 .logo-darck {
   color: #2e2f42;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  text-transform: uppercase;
+  text-decoration: none;
 }
 
 .logo-light {
@@ -26,18 +65,47 @@ body {
 
 .nav-link {
   color: #2e2f42;
+  font-weight: 500;
+}
+.nav-link:focus {
+  color: #404bbf;
+}
+.nav-link:hover {
+  color: #404bbf;
 }
 
 .contact-link {
   color: #434455;
+  font-style: normal;
+}
+.contact-link:focus {
+  color: #404bbf;
+}
+
+.contact-link:hover {
+  color: #404bbf;
 }
 /* Hero section */
 
 .hero-section {
   background-color: #2e2f42;
 }
+
 .hero-title {
-  color: #ffffff;
+  color: #fff;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+  text-align: center;
+}
+/* Team section */
+.team-section {
+  background-color: #f4f4fd;
+}
+.team-section-image {
+  background-color: #fff;
+  width: 264px;
+  height: 380px;
 }
 /* Footer */
 .footer {

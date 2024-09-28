@@ -1,0 +1,45 @@
+/*Base*/
+body {
+  color: #434455;
+}
+.button {
+  color: #ffffff;
+  background-color: #4d5ae5;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: #404bbf;
+}
+
+/* Header */
+.logo-darck {
+  color: #2e2f42;
+}
+
+.logo-light {
+  color: #f4f4fd;
+}
+
+.logo-accent {
+  color: #4d5ae5;
+}
+
+.nav-link {
+  color: #2e2f42;
+}
+
+.contact-link {
+  color: #434455;
+}
+/* Hero section */
+
+.hero-section {
+  background-color: #2e2f42;
+}
+.hero-title {
+  color: #ffffff;
+}
+/* Footer */
+.footer {
+  background-color: #2e2f42;
+}

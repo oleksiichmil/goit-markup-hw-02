@@ -115,6 +115,15 @@ h3 {
   text-align: center;
   letter-spacing: 0.02em;
 }
+/* Our advantages section */
+.advantages-title {
+  color: #2e2f42;
+  letter-spacing: 0.02em;
+}
+.advantages-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
 /* Team section */
 .team-section {
   background-color: #f4f4fd;

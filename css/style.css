@@ -35,6 +35,8 @@ h3 {
   text-transform: capitalize;
   cursor: pointer;
   text-align: center;
+  line-height: 1.5;
+  letter-spacing: 0.04;
 }
 
 .button:hover {
@@ -111,6 +113,7 @@ h3 {
   font-weight: 700;
   line-height: 1.07;
   text-align: center;
+  letter-spacing: 0.02em;
 }
 /* Team section */
 .team-section {

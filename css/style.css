@@ -93,24 +93,30 @@ h3 {
 }
 .nav-link:focus {
   color: #404bbf;
+  letter-spacing: 0.02em;
 }
 .nav-link:hover {
   color: #404bbf;
+  letter-spacing: 0.02em;
 }
 
 .contact-link {
   color: #434455;
   font-style: normal;
+  letter-spacing: 0.02em;
 }
 .contact-link:focus {
   color: #404bbf;
+  letter-spacing: 0.02em;
 }
 
 .contact-link:hover {
   color: #404bbf;
+  letter-spacing: 0.02em;
 }
 .address-header {
   font-style: normal;
+  letter-spacing: 0.02em;
 }
 /* Hero section */
 

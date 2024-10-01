@@ -146,6 +146,15 @@ h3 {
 .team-section {
   background-color: #f4f4fd;
 }
+.team-title {
+  color: #2e2f42;
+  letter-spacing: 0.02em;
+  line-height: 1.11;
+}
+.team-text {
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
 .team-section-image {
   background-color: #fff;
   width: 264px;

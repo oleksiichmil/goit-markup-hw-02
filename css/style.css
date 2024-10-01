@@ -166,10 +166,15 @@ h3 {
   height: 380px;
 }
 /* Our Portfolio section */
-.portfolio-title {
+.portfolio-title-hero {
   color: #2e2f42;
   line-height: 1.11;
   letter-spacing: 0.02em;
+}
+.portfolio-title {
+  color: #2e2f42;
+  letter-spacing: 0.02em;
+  line-height: 1.2;
 }
 /* Footer */
 .footer {

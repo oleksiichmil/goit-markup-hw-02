@@ -56,17 +56,18 @@ h3 {
 }
 
 .logo-light {
-  color: #f4f4fd;
+  color: #4d5ae5;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
   text-transform: uppercase;
   text-decoration: none;
+  letter-spacing: 0.03em;
 }
 
 .logo-accent {
-  color: #f4f4fd;
+  color: #4d5ae5;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
